@@ -1,0 +1,4 @@
+# Python version: 3.13.x
+psycopg==3.3.3
+psycopg-binary==3.3.3
+tzdata==2025.3
